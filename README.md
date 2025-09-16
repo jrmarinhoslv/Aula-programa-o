@@ -1,2 +1,4 @@
-# Aula-programa-o
-Meu primeiro repositório, ainda sou iniciante
+# Aulaprogramaçao
+## aluno Edjunior Marinho da Silva
+### UC programação e soluções computacionais
+Meu primeiro repositorio, ainda sou iniciante
